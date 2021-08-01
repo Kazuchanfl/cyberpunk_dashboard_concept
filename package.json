@@ -11,5 +11,9 @@
     "url": "git@github-private:Kazuchanfl/cyberpunk_dashboard_concept.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.14",
+    "vue-cli": "^2.9.6"
+  }
 }
